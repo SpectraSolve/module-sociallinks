@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/sociallinks",
+    "description": "",
+    "authors": [
+        {
+            "name": "Gamestacks",
+            "email": "support@gamestacks.de"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\SocialLinks\\": "",
+            "Modules\\SocialLinks\\App\\": "app/",
+            "Modules\\SocialLinks\\Database\\Factories\\": "database/factories/",
+            "Modules\\SocialLinks\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\SocialLinks\\Tests\\": "tests/"
+        }
+    }
+}

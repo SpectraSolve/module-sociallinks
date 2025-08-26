@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/" isTestSource="false" packagePrefix="Modules\SocialLinks\" />
+      <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" packagePrefix="Modules\SocialLinks\App\" />
+      <sourceFolder url="file://$MODULE_DIR$/database/factories" isTestSource="false" packagePrefix="Modules\SocialLinks\Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/database/seeders" isTestSource="false" packagePrefix="Modules\SocialLinks\Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="Modules\SocialLinks\Tests\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
